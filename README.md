@@ -18,8 +18,10 @@ Find my resume right [here](./resume.pdf).
 - **Web Development Intern (July 2021 - Oct 2021)** - Chennai, India
 
 ## 🎓 Education
-- **Masters of Engineering, Information Systems Security (2022-2024)** - Concordia University, Montreal Canada 
-- **Bachelors of Engineering, Computer Science (2017-2021)** - Easwari Engineering College (aff. to Anna University), Chennai India 
+- **Masters of Engineering, Information Systems Security** (2022-2024)
+   - Concordia University, Montreal Canada 
+- **Bachelors of Engineering, Computer Science** (2017-2021)
+   - Easwari Engineering College (aff. to Anna University), Chennai India 
 
 ## ☎️ Contact
 - **Email**: [prathiksha99.sivakumar@gmail.com](mailto:prathiksha99.sivakumar@gmail.com)
