@@ -12,7 +12,7 @@ I am a current Cyber Security graduate, equipped with a robust foundation in var
 
 
 ## 📜 Resume
-
+Find my resume right [here](./Prathiksha Sivakumar - Resume'.pdf).
 
 ## 💼 Experience
 - **Web Development Intern (July 2021 - Oct 2021)** - Chennai, India
